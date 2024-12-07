@@ -45,7 +45,9 @@ o	Features:
 This internship allowed me to:
 
 -Develop responsive and user- friendly designs.
+
 -Apply HTML, CSS, and JavaScript effectively.
+
 -Developed adaptability and problem-solving skills.
 
 •	ACKNOWLEDGEMENTS:
