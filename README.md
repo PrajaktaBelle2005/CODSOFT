@@ -3,7 +3,6 @@ CodSoft Web Development Internship Projects:-
 This repository showcases the projects and resources completed during my web development internship at Codsoft. Each project demonstrate various skills in HTML, CSS, and JavaScript, developed as part of my internship journey.
 
 PROJECTS:-
-
 1. Portfolio Website:
    
 A personal portfolio website designed to showcase my skills, projects, and achievements in web development.
